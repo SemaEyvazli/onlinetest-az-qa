@@ -11,7 +11,7 @@
 | **URL** | https://onlinetest.az/sign-in |
 | **Environment** | Chrome (latest), Windows 11 |
 | **Tarix** | 13.10.2026 |
-| **Reporter** | (adınız) |
+| **Reporter** | Sema |
 | **Assignee** | |
 
 ## Qısa təsvir
