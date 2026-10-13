@@ -1,0 +1,12 @@
+# Project Overview
+- **Layihə adı:** onlinetest.az
+- **URL:** https://onlinetest.az/
+- **Təsvir:** Onlayn test platforması (saytı araşdırdıqdan sonra doldurun)
+- **Hədəf auditoriya:**
+- **Əsas funksiyalar:**
+  - Qeydiyyat / Giriş
+  - Test seçimi və başlatma
+  - Testin keçirilməsi (timer, suallar, cavablar)
+  - Nəticələrin göstərilməsi
+  - Profil
+- **Dillər:** AZ / EN / RU (yoxlayın)

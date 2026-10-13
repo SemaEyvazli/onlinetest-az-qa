@@ -1,0 +1,11 @@
+# Smoke Checklist
+- [ ] Sayt açılır (https://onlinetest.az/)
+- [ ] Əsas səhifə düzgün yüklənir
+- [ ] Qeydiyyat işləyir
+- [ ] Login işləyir
+- [ ] Test siyahısı görünür
+- [ ] Test başlayır
+- [ ] Cavab seçmək mümkündür
+- [ ] Test bitir və nəticə göstərilir
+- [ ] Logout işləyir
+- [ ] Konsolda kritik xəta yoxdur

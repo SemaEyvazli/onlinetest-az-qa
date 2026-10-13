@@ -1,0 +1,5 @@
+ID,Modul,Başlıq,Priority,Preconditions,Steps,Expected,Actual,Status,Bug ID,Tester,Tarix
+TC_001,Registration,Düzgün məlumatlarla qeydiyyat,High,,,,,Not Run,,,
+TC_010,Login,Düzgün məlumatlarla login,High,,,,,Not Run,,,
+TC_020,Test-Taking,Testin başladılması,High,,,,,Not Run,,,
+TC_030,Results,Nəticənin göstərilməsi,High,,,,,Not Run,,,

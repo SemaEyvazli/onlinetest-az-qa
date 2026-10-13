@@ -1,0 +1,11 @@
+# Form Validation Checklist
+- [ ] Required sahələr işarələnib
+- [ ] Boş göndərmə xəta verir
+- [ ] Email format yoxlanışı
+- [ ] Parol uzunluğu / mürəkkəbliyi
+- [ ] Maksimum simvol limiti
+- [ ] Xüsusi simvollar və boşluqlar
+- [ ] Telefon formatı (əgər varsa)
+- [ ] Xəta mesajları aydın və düzgün yerdədir
+- [ ] Uğurlu göndərmədən sonra forma təmizlənir
+- [ ] Double submit qorunması

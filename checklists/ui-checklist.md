@@ -1,0 +1,11 @@
+# UI Checklist
+- [ ] Logo, favicon, title
+- [ ] Şriftlər və rənglər ardıcıldır
+- [ ] Elementlər düzgün hizalanıb
+- [ ] Şəkillər yüklənir
+- [ ] Düymələr və linklər işləyir (hover/focus)
+- [ ] Orfoqrafiya düzgündür
+- [ ] Responsive: Mobile / Tablet / Desktop
+- [ ] Horizontal scroll yoxdur
+- [ ] Error/Success mesajları aydındır
+- [ ] Tab ilə naviqasiya işləyir
